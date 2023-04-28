@@ -1,4 +1,4 @@
-# You Don't Know JS Yet (book series) - 2nd Edition
+# You Don't Know JS Yet (book series) - 2nd Edition - Annotated 
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
 
@@ -14,6 +14,7 @@ If you're looking for the previous **first edition** books, [they can be found h
 I recommend reading the **second edition** books in this order:
 
 * [Get Started](get-started/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-get-started) | [Buy on Amazon](https://www.amazon.com/dp/B084BNMN7T)
+  * Chapter 1: What is JavaScript
 * [Scope & Closures](scope-closures/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-scope-closures) | [Buy on Amazon](https://www.amazon.com/dp/B08634PZ3N)
 * [Objects & Classes](objects-classes/README.md) (draft stable)
 * [Types & Grammar](types-grammar/README.md) (draft in progress)

@@ -1,3 +1,29 @@
+### Chapter 1 What *Is* Javascript?: Summary
+
+#### Section: Introduction & About the book
+
+* First chapter provides a high-level map of how to study the series.
+* **important:** There are three pillias of JS that is identified in ch4
+1. Scopes/closures
+2. Prototypes/objects
+3. Types/coercion
+* All JS is founded on these pilliars
+* Spend time writing JS code to build up experiance
+* Take time to process the material, a good start always depends on a solid first step
+
+#### Section: What's With That Name?
+
+* There has been several marketing Shenanigans with JS name, it is now formally called ESCMAScript and often refered to as JS (instead of JavaScript)
+* Javascript was conieved by [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) and codenamed Mocha, internally called LiveScript at Netscape (further reading: [Netscapes Failure](https://history-computer.com/the-5-real-reasons-netscape-failed/), Netscape went from 90% marketshare to 4% and is speculated to be an early symptom of the dot com bubble. It's source code was used to inspire Morzilla Firefox)
+* The word Java was used to appeal to a wider audiance and script happened to describe lightweight prorgams at the time. The language oculd have been easily called WebJava
+* There some syntax similar to C/C++ and Java, however there isn't a shared code base and programming these languages are quite different. 
+* Extra material: [Low vs High Level languages](https://compscicentral.com/programming-language-levels/). The level of language can be though of how close to machine 
+* Note: [Webassembly](https://webassembly.org/) is a new type of code that allows low-level assembly-like languages like C/C++ and Rust to be compiled and used for the web (an run along JS)
+* Oracle (owners of Java) technically own the trademark for JavaScript, but will most likely never enforce it.
+* JavaScript is offically refered to as the offical name and revision date (for e.g. ES20xx, the latest being: ES2019). Avoid using JS6, ES8 even though you may see it in the wild.
+
+#### Section: Language Specification
+
 # You Don't Know JS Yet: Get Started - 2nd Edition
 # Chapter 1: What *Is* JavaScript?
 
